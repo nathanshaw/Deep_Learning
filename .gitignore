@@ -1,4 +1,5 @@
 # Byte-compiled / optimized / DLL files
+*.pdf
 *.DS_Store
 notebook_notes_git_ignored/*
 __pycache__/
